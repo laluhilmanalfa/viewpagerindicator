@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ViewPagerIndicator">
+        <attr name="activeColor" format="color"></attr>
+        <attr name="inActiveColor" format="color"></attr>
+        <attr name="activeSize" format="integer"></attr>
+        <attr name="inActiveSize" format="integer"></attr>
+        <attr name="animationDuration" format="integer"></attr>
+
+    </declare-styleable>
+
+</resources>
